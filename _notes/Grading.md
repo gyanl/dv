@@ -1,6 +1,6 @@
 ---
 date: 19-01-2025
-date modified: 07-04-2025
+date modified: 13-04-2025
 feed: show
 title: "Grading"
 ---
@@ -46,7 +46,8 @@ I will grade each of these submissions out of 8 and consider the best 5 scores.
 4. [[Exercise - Critique and Redesign]]
 5. [[Exercise - Self Visualising Information]]
 6. [[Exercise - Style a Map]]
-7. [[Exercise - Schematic Maps]]
+7. [[Exercise - Dashboard Design]]
+8. [[Exercise - Schematic Maps]]
 
 #### 3. Midsem Project (20%)
 
