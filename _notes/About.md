@@ -1,12 +1,14 @@
 ---
 date: 12-01-2025
-date modified: 12-01-2025
+date modified: 23-04-2025
 feed: show
 title: "About"
 ---
 ### About this Website
 
 This website documents some of the material I shared with students as part of the DD325: Data Visualization elective I am teaching at Department of Design, Delhi Technological University in Jan-May 2025.
+
+![](assets/img/class-photo.jpeg)
 
 ### Jekyll Garden
 
