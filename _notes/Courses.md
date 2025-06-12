@@ -1,6 +1,6 @@
 ---
 date: 12-01-2025
-date modified: 20-01-2025
+date modified: 11-06-2025
 feed: show
 title: "Courses"
 ---
@@ -23,4 +23,4 @@ Outlier Conf talks
 
 [Data Visualization Society - YouTube](https://www.youtube.com/@DataVisualizationSociety/videos)
 
-[Data Visualization and Information Design: Create a Visual Model (Federica Fragapane) | Domestika](https://www.domestika.org/en/courses/2495-data-visualization-and-information-design-create-a-visual-model)
+[Data Visualization and Information Design: Create a Visual Model (Federica Fragapane) Domestika](https://www.domestika.org/en/courses/2495-data-visualization-and-information-design-create-a-visual-model)

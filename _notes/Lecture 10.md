@@ -1,12 +1,13 @@
 ---
 date: 08-04-2025
-date modified: 08-04-2025
+date modified: 12-06-2025
 feed: show
 tag: lecture
 title: "Lecture 10"
 ---
 
 > **Link to Slides**
+> [Data Viz - Lecture 10 - 8 April 2025.pdf](https://gyanl.com/dv/assets/pdf/Data Viz - Lecture 10 - 8 April 2025.pdf)
 
 ## Interactivity & Motion
 #### Morning

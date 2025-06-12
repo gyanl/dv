@@ -1,6 +1,6 @@
 ---
 date: 12-01-2025
-date modified: 11-02-2025
+date modified: 11-06-2025
 feed: show
 title: "Data Ethics"
 ---
@@ -11,4 +11,6 @@ Windows and Mirrors
 
 Bhoomi
 
-![[Data Ethics.png]]
+What if Pepsi wants to sell water?
+
+Pepsico wants to identify areas that don't have drinking water and sell drinking water there.
