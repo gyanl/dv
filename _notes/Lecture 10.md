@@ -21,4 +21,4 @@ title: "Lecture 10"
 - Guest lecture by Neel - From numbers to narratives
 #### Afternoon
 - Presentations - [[Exercise - Self Visualising Information]]
-- Discussing [[Final Projects]]
+- Discussing [[Project - Endsem Project]]

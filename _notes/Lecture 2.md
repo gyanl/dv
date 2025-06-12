@@ -1,6 +1,6 @@
 ---
 date: 14-01-2025
-date modified: 07-02-2025
+date modified: 12-06-2025
 feed: show
 tag: lecture
 title: "Lecture 2"
@@ -23,7 +23,7 @@ title: "Lecture 2"
 - **Exercise:** [[Exercise - Explore a Dataset]]
 
 #### Afternoon
-- **Presentations:** [[Data Visualisation Tools]]
+- **Presentations:** [[Exercise - Data Visualisation Tools]]
 - **Exercise:** [[Exercise - Explore a Dataset]] WITH AI!!!
 
 #### Resources
