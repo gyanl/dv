@@ -8,4 +8,3 @@ title: DD 324 - Data Visualisation
 permalink: /
 ---
 
-Notes and other resources.

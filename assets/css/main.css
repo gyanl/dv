@@ -333,7 +333,6 @@ body {
   color: var(--color-text-main);
   font-weight: 400;
   line-height: 1.4;
-  padding: 2rem;
 }
 
 a {
@@ -2556,7 +2555,7 @@ a.tag:hover {
 .select select {
   border-color: var(--color-border-light);
   border-radius: 4px;
-  background: var(--color-bg-main);
+  background: var(--color-text-link-light);
   color: var(--color-text-main);
   padding-left: 1em;
 }
@@ -2880,7 +2879,7 @@ fieldset[disabled] .select select:-ms-input-placeholder,
   display: block;
   max-width: 100%;
   min-width: 100%;
-  padding: calc(0.75em - 1px);
+  padding: 10px;
   resize: vertical;
 }
 
@@ -3805,7 +3804,6 @@ body.has-navbar-fixed-bottom {
   color: var(--color-text-main);
   display: block;
   line-height: 1.5;
-  padding: 0.75rem;
   position: relative;
 }
 

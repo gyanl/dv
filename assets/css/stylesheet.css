@@ -19,12 +19,12 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-bg-main: #10142a;
-    --color-bg-sub: #18181C;
+    --color-bg-main: #0c0f1d;
+    --color-bg-sub: #141436;
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
     --color-text-link: #6D9EFF;
-    --color-text-link-light: #222043;
+    --color-text-link-light: #1b1e2f;
     --color-border-dark: #E6E6E6;
     --color-border: #696969;
     --color-border-light: #353535;
@@ -34,12 +34,12 @@ html[data-theme="dark"] {
 
     html,
     html[data-theme="dark"] {
-        --color-bg-main: #10142a;
-        --color-bg-sub: #18181C;
+        --color-bg-main: #0c0f1d;
+        --color-bg-sub: #141436;
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
         --color-text-link: #6D9EFF;
-        --color-text-link-light: #222043;
+        --color-text-link-light: #1b1e2f;
         --color-border-dark: #E6E6E6;
         --color-border: #696969;
         --color-border-light: #353535;
@@ -91,7 +91,7 @@ html[data-theme="dark"] {
     line-height: var(--text-leading-narrow);
     padding-bottom: 0;
     font-family: var(--font-heading);
-    margin: 0;
+    margin: 4px;
 }
 
 h1 {
@@ -212,7 +212,7 @@ body {
 }
 
 .section {
-    padding-top: var(--padding-broad);
+    padding: var(--padding-normal);
 }
 
 
